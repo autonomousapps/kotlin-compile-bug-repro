@@ -2,6 +2,8 @@
 
 The bugs described below fail with both Kotlin `2.0.21` and `2.1.20`.
 
+Reported at https://youtrack.jetbrains.com/issue/KT-77416/kotlinCompile-succeeds-when-it-should-fail.
+
 ## First bug: just `:app:compileKotlin`
 
 Run
